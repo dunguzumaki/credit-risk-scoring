@@ -1,4 +1,4 @@
-# 🏦 Credit Risk Scoring: Dự báo khả năng vỡ nợ khoản vay
+# Credit Risk Scoring: Dự báo khả năng vỡ nợ khoản vay
 
 Dự án Machine Learning cổ điển trên dữ liệu bảng: dự đoán xác suất một khoản vay cá nhân bị vỡ nợ. Dự án so sánh **Logistic Regression → Random Forest → XGBoost → Ensemble (XGBoost + LightGBM + Random Forest)**, chọn **ngưỡng quyết định theo chi phí kinh doanh** thay vì mặc định 0.5, giải thích dự đoán bằng **SHAP**, và có kèm app **Streamlit** để chấm điểm từng hồ sơ.
 
